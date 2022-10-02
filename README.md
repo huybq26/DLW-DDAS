@@ -1,5 +1,12 @@
 # DLW-DDAS
 
+### DDAS uses machine learning with satellite imagery to map natural disaster impacts for faster emergency response.
+
+Youtube demo link: https://www.youtube.com/watch?v=SwFzEMHJUgU&t
+
+Presentation slide: https://docs.google.com/presentation/d/1-6yHFUjNGN_ITu03FSw1iLKqCKc7Rl_eYsufD8BnYgw/edit?usp=sharing
+
+
 ![Disaster Damage Alert Integrated System](https://user-images.githubusercontent.com/114417539/193471680-1ab0f36b-f411-41f4-b7d4-31c6e512b64c.jpg)
 
 ## Abstract
@@ -37,5 +44,4 @@ Install and run guide:
 
 ### `flask run`
 
-Youtube demo link: https://www.youtube.com/watch?v=SwFzEMHJUgU&t
-Presentation slide: https://docs.google.com/presentation/d/1-6yHFUjNGN_ITu03FSw1iLKqCKc7Rl_eYsufD8BnYgw/edit?usp=sharing
+
