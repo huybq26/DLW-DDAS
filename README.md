@@ -23,3 +23,16 @@ Learn more: https://arxiv.org/abs/1911.09296
 ## System Architecture
 ![Disaster Damage Alert Integrated System (8)](https://user-images.githubusercontent.com/114417539/193473330-a6d7db42-7104-45fd-89bf-05d148310927.jpg)
 
+
+Install and run guide:
+- Install the dependencies: 
+
+### `pip install -r requirements.txt`
+
+- Run the code in debug mode:
+
+### `python app.py` (ask us for the Keras model files)
+
+- Run the code in production mode:
+
+### `flask run`
