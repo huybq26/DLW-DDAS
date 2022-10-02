@@ -36,3 +36,6 @@ Install and run guide:
 - Run the code in production mode:
 
 ### `flask run`
+
+Youtube demo link: https://www.youtube.com/watch?v=SwFzEMHJUgU&t
+Presentation slide: https://docs.google.com/presentation/d/1-6yHFUjNGN_ITu03FSw1iLKqCKc7Rl_eYsufD8BnYgw/edit?usp=sharing
